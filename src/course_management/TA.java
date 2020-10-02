@@ -12,7 +12,7 @@ package course_management;
 public class TA extends javax.swing.JFrame {
 String username;
     /**
-     * Creates new form TA
+     * Creates new form TA for course management system
      */
     public TA(String uname) {
         initComponents();
