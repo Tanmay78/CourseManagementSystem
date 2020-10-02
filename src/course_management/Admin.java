@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 public class Admin extends javax.swing.JFrame {
 
     /**
-     * Creates new form Admin
+     * Creates new form Admin for Course Management System
      */
     public Admin() {
         initComponents();
