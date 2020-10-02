@@ -12,7 +12,7 @@ package course_management;
 public class Welcome extends javax.swing.JFrame {
 
     /**
-     * Creates new form Welcome
+     * Creates new form Welcome page for course management system
      */
     public Welcome() {
         initComponents();
