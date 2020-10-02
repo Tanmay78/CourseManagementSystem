@@ -15,15 +15,16 @@ import java.sql.*;
 
  * @author DELL
  */
+
+/**
+ * Create a new form Student for Course Managegement System
+ */
 public class Student extends javax.swing.JFrame {
 Connection myconn=null;
      Statement  myStat=null;
      ResultSet myRs=null;
      String choose;
-/*JComboBox jComboBox2 = new JComboBox();
-                t1.add(jComboBox2);
-                jComboBox2.addItem("asdf");*/
-   public String name;
+     public String name;
     public Student(String id) {
         initComponents();
         this.name=id;
